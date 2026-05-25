@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+
+# Database Storage
+qdrant_storage/
+my_vectors.db/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+.env
