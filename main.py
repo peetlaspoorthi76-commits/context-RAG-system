@@ -166,3 +166,4 @@ async def user_query(query: str):
         "answer": chat_completion.choices[0].message.content,
         "source_used": source_file
     }
+
